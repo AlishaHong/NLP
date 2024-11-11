@@ -4,3 +4,5 @@
 *.pyc
 *.txt
 *.mp4
+*.bin
+*.sqlite3
